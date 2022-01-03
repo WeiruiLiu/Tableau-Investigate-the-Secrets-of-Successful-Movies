@@ -12,4 +12,4 @@ This dataset contains important statistics from movies, with 3,177 observations 
 ## Visualization in Tableau Public
 **Investigate the Secrets of Successful Movies** with link [Dashboard](https://public.tableau.com/app/profile/weirui.liu/viz/InvestigatetheSecretsofSuccessfulMovies/Top10MovieswithHighestIMDBRatingDashboard).
 
-In case Tableau Public link is not working, check **Investigate the Secrets of Successful Movies.pdf**.
+In case Tableau Public link is not working, the complete report check **Investigate the Secrets of Successful Movies.pdf**.

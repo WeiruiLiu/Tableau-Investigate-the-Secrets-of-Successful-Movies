@@ -10,6 +10,6 @@ As a James Bond fan, I went to the cinema two weeks ago to see the film No Time 
 This dataset contains important statistics from movies, with 3,177 observations and 16 variables: Worldwide Gross, Production Budget, Major Genre, Creative Type, Director, IMDB Rating, etc. Most columns contain “null”, and if I eliminated all null-containing rows, there wouldn’t be many movies left to analyze. So, I decided to keep “null” but exclude them from the visualization.
 
 ## Visualization in Tableau Public
-**Investigate the Secrets of Successful Movies** with link [Dashboard](https://public.tableau.com/app/profile/weirui.liu/viz/InvestigatetheSecretsofSuccessfulMovies/Top10MovieswithHighestIMDBRatingDashboard).
+**Investigate the Secrets of Successful Movies** with link [Tableau Public](https://public.tableau.com/app/profile/weirui.liu/viz/InvestigatetheSecretsofSuccessfulMovies/Top10MovieswithHighestIMDBRatingDashboard).
 
 In case Tableau Public link is not working, the complete report check **Investigate the Secrets of Successful Movies.pdf**.
